@@ -1,2 +1,2 @@
 Programmeur gameur.
-J'apprends a coder en prévision de devenir développeur full stack
+J'apprends à coder en prévision de devenir expert cybersécuriter
