@@ -1,2 +1,3 @@
-Programmeur gameur.
-J'apprends à coder en prévision de devenir expert cybersécuriter
+Étudiant en réseaux et Télécom.
+
+En recherche d'alternance pour ma deuxième année de BUT.
